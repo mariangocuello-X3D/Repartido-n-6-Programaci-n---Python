@@ -581,6 +581,3 @@ b.prestar("L1", s)
 print(b)   # Biblioteca: 1 material(es), 1 prestado(s)
 b.devolver("L1", s)
 print(b)   # Biblioteca: 1 material(es), 0 prestado(s)
-
-
-print("test")
